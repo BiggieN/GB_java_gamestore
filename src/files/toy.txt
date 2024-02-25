@@ -1,0 +1,9 @@
+1,Lego,2,7
+2,Robot,4,4
+3,Barbie,8,11
+4,Car,9,5
+5,Lotto,2,10
+5,Pool,2,10
+6,Ball,6,5
+7,Snowman,10,9
+8,Lego,2,5

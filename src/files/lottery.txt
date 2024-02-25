@@ -1,0 +1,10 @@
+2,Robot,4
+2,Robot,4
+1,Lego,7
+1,Lego,7
+5,Lotto,10
+5,Pool,10
+9,Матрешка,100
+2,Robot,4
+1,Lego,7
+2,Robot,4
